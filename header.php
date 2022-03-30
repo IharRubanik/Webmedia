@@ -18,7 +18,7 @@
 </head>
 <body>
         <div id="page-preloader" class="preloader">
-            <!-- <div class="preloader__block">
+            <div class="preloader__block">
                 <div class="preloader__logo">
                     <img src="<?php bloginfo('template_url'); ?>/assets/img/preloder/heart.gif" alt="preloader">
                     <h2>Web <br>
@@ -26,7 +26,7 @@
                 </div>
                 <span class="preloader__line"></span>
                 
-            </div> -->
+            </div>
         </div>
     <main class="wrapper" id="wrapper">
         <img class="wrapper-anime" src="<?php bloginfo('template_url'); ?>/assets/img/wrapper/anime-circles.gif" alt="anime">
