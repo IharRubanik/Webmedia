@@ -25,7 +25,6 @@
                     <span>Media</span></h2>
                 </div>
                 <span class="preloader__line"></span>
-                
             </div>
         </div>
     <main class="wrapper" id="wrapper">

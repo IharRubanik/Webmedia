@@ -1,6 +1,5 @@
 /*
 Theme Name: Webmedia
-
 */
 /* ubuntu-regular - latin_cyrillic */
 @font-face {
@@ -464,6 +463,7 @@ body .preloader .preloader__block .preloader__logo img {
 }
 
 body .preloader .preloader__block .preloader__logo h2 {
+  font-family: "Ubuntu";
   margin-top: 3vw;
   font-style: normal;
   font-weight: 700;
