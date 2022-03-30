@@ -40,14 +40,17 @@ window.onload = () => {
   observer.observe(document.querySelector(".services__smm-circl"));
 };
 
-// burger menu
-document.querySelector(".burger-menu").onclick = function () {
-  document.querySelector("#burger-menu__span1").classList.toggle("active"),
+let elements = document.querySelectorAll(".link, .burger-menu");
+for (let i = 0; i < elements.length; i++) {
+  elements[i].onclick = function(){
+    document.querySelector("#burger-menu__span1").classList.toggle("active"),
     document.querySelector("#burger-menu__span2").classList.toggle("active"),
     document.querySelector("#burger-menu__span3").classList.toggle("active"),
     document.querySelector(".menu").classList.toggle("active"),
     document.querySelector("body").classList.toggle("active");
-};
+  };
+}
+
 // слайдер
 const swiper = new Swiper(".swiper", {
   autoplay: {

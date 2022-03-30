@@ -75,10 +75,10 @@
             <div class="menu-container container">
                     <img src="<?php bloginfo('template_url'); ?>/assets/img/main/logo-mobile.svg" alt="logo">
                     <ul>
-                        <li><a href="#portfolio">Портфолио</a></li>
-                        <li><a href="#sentence">Услуги</a></li>
-                        <li>  <a href="./presentation.pdf" target="_blank">Цены</a></li>
-                        <li><a href="#footer">Контакты</a></li>
+                        <li><a class="link" href="#portfolio">Портфолио</a></li>
+                        <li><a class="link" href="#sentence">Услуги</a></li>
+                        <li>  <a class="link" href="<?php bloginfo('template_url'); ?>/assets/presentation.pdf" target="_blank">Цены</a></li>
+                        <li><a class="link" href="#footer">Контакты</a></li>
                     </ul>
                     <div class="menu__social">
                         <a href="tel:+995 599 02 19 54">

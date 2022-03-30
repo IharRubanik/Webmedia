@@ -3245,7 +3245,7 @@ body .wrapper .footer .footer__info .footer__left-block h3 {
     height: auto;
   }
   body.active {
-    overflow: hidden;
+    overflow: hidden !important;
   }
   body .wrapper .wrapper-anime {
     position: absolute;

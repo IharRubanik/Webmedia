@@ -2578,8 +2578,9 @@ body {
     max-width: 736px;
     height: auto;
   }
+ 
   body.active {
-    overflow: hidden;
+    overflow: hidden !important;
   }
   body {
     .wrapper {

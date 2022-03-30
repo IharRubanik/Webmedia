@@ -15,7 +15,7 @@
                     </div>
                     <div class="input-container">
                         <span>Email</span>
-                        <input type="text" name="email" required>
+                        <input type="text" name="mail" required>
                     </div>
                     <div class="input-container">
                         <span>Комментарий</span>
