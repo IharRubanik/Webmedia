@@ -4,7 +4,7 @@
                     <h2>Оставить<br>
                         заявку</h2>
                 </div>
-                <form class="footer__application-form" method="post" action="./send.php">
+                <form class="footer__application-form">
                     <div class="input-container">
                         <span>Имя</span>
                         <input type="text" name="name" required>
@@ -25,7 +25,6 @@
                         <div class="footer__button-green">
                             <div class="footer__button-blur">
                               <input class="form__input btn" type="submit" value="Go">
-                            <input type="hidden" name="act" value="order">
                             </div>
                         </div>
                 </div>
