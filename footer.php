@@ -47,12 +47,6 @@
                 </div>
         </footer>
     </main>
-   <div id="fb-root"></div>
-     <div id="fb-customer-chat" class="fb-customerchat">
-   </div>
-    <div id="fb-root"></div>
-  <div id="fb-customer-chat" class="fb-customerchat">
-  </div>
   <?php wp_footer(); ?>
 </body>
 </html>
