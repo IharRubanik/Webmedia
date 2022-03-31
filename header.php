@@ -9,10 +9,10 @@
 <link rel="icon" type="img/favicon/image/png" sizes="32x32" href="<?php bloginfo('template_url'); ?>/assets/img/favicon//favicon-32x32.png">
 <link rel="icon" type="img/favicon/image/png" sizes="16x16" href="<?php bloginfo('template_url'); ?>/assets/img/favicon//favicon-16x16.png">
     <title><?php bloginfo('description' ); ?></title>
-    <noscript>
+    <!-- <noscript>
         <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1425426281239758&ev=PageView&noscript=1"/>
-    </noscript>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-2NWKXPNZ38"></script>
+    </noscript> -->
+        <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-2NWKXPNZ38"></script> -->
 
         <?php wp_head(); ?>
 </head>
