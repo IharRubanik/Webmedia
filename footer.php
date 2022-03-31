@@ -7,19 +7,19 @@
                 <form class="footer__application-form">
                     <div class="input-container">
                         <span>Имя</span>
-                        <input type="text" name="name" required>
+                        <input  name="name" >
                     </div>
                     <div class="input-container">
                         <span>Телефон</span>
-                        <input type="text" name="phone" required>
+                        <input  name="phone" >
                     </div>
                     <div class="input-container">
                         <span>Email</span>
-                        <input type="text" name="mail" required>
+                        <input  name="mail" >
                     </div>
                     <div class="input-container">
                         <span>Комментарий</span>
-                        <input type="text" name="coment" required>
+                        <input name="coment">
                     </div>
                     <div class="footer__button-orange">
                         <div class="footer__button-green">
