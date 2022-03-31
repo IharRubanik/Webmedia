@@ -10,6 +10,8 @@ add_action( 'wp_enqueue_scripts', function() {
 	
 	wp_enqueue_script( 'swiper-script', get_template_directory_uri() . '/assets/js/swiper.js', array(), null, true );
 	wp_enqueue_script( 'main-script', get_template_directory_uri() . '/assets/js/script.js', array('jquery'), null, true );
+
+	
 	wp_enqueue_script( 'form-script', get_template_directory_uri() . '/assets/js/form.js', array(), null, true );
 	wp_enqueue_script( 'formalert-script', get_template_directory_uri() . '/assets/js/sweetalert.min.js', array(), null, true );
 });
