@@ -48,7 +48,11 @@
         </footer>
     </main>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+
+  <?php wp_footer(); ?>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2NWKXPNZ38"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -57,8 +61,5 @@
 
   gtag('config', 'G-2NWKXPNZ38');
 </script>
-
-
-  <?php wp_footer(); ?>
 </body>
 </html>
