@@ -5,7 +5,7 @@ $phone = $_POST['phone']; // Берём данные из input c атрибут
 $email = $_POST['mail']; // Берём данные из input c атрибутом name="mail"
 $coment = $_POST['coment']; // Берём данные из input c атрибутом name="coment"
 
-$token = "1299894601:AAG1s-oE3AnZDbZJnV0ybyBAOO4uLADfEaY"; // Тут пишем токен
+$token = "5245369426:AAEaXxph85H365EpoO7iod_E3gVy4Tq70Z4"; // Тут пишем токен
 $chat_id = "-1001415249802"; // Тут пишем ID группы, куда будут отправляться сообщения
 $sitename = "webmedia.ge"; //Указываем название сайта
 
