@@ -7,7 +7,7 @@
                 <form class="footer__application-form">
                     <div class="input-container">
                         <span>Имя</span>
-                        <input  maxlength="25" name="name"  autocomplete="new-text" type="text" required >
+                        <input maxlength="25" name="name"  autocomplete="new-text" type="text" required >
                     </div>
                     <div class="input-container">
                         <span>Телефон</span>
