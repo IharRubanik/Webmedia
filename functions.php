@@ -11,8 +11,7 @@ add_action( 'wp_enqueue_scripts', function() {
 	wp_deregister_script('jquery-core');
 	wp_deregister_script('jquery');
 
-	// wp_register_script( 'jquery-core', 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js', false, null, true );
-	wp_register_script( 'jquery-core', 'https://code.jquery.com/jquery-3.4.1.min.js', false, null, true );
+	wp_register_script( 'jquery-core', 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js', false, null, true );
 	wp_register_script( 'jquery', false, array('jquery-core'), null, true );
 
 	wp_enqueue_script( 'jquery' );
@@ -24,7 +23,7 @@ add_action( 'wp_enqueue_scripts', function() {
 	wp_enqueue_script( 'main-script', get_template_directory_uri() . '/assets/js/script.js', array(), null, true );
 
 
-	wp_enqueue_script( 'form-script', get_template_directory_uri() . '/assets/js/form.js', array(), null, true );
+	wp_enqueue_script( 'form-script', get_template_directory_uri() . '/form.js', array(), null, true );
 	wp_enqueue_script( 'formalert-script', get_template_directory_uri() . '/assets/js/sweetalert.min.js', array(), null, true );
 });
 
