@@ -1,3 +1,6 @@
+
+
+
 jQuery(document).ready(function(){
 	jQuery("form").submit(function() { // Событие отправки с формы
 		var form_data = jQuery(this).serialize(); // Собираем данные из полей

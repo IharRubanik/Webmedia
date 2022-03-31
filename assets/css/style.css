@@ -1672,7 +1672,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-html {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-html:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -1716,7 +1715,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-sql {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-sql:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -1760,7 +1758,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-css {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-css:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -1804,7 +1801,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-adobe {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-adobe:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -1849,7 +1845,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-github {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-github:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -1893,7 +1888,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-ux {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-ux:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -1937,7 +1931,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-react {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-react:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -1982,7 +1975,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-yandex {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-yandex:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2026,7 +2018,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-bem {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-bem:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2071,7 +2062,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-google {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-google:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2116,7 +2106,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-ads {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-ads:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2161,7 +2150,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-node {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-node:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2205,7 +2193,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-wp {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-wp:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2249,7 +2236,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-tilda {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-tilda:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2294,7 +2280,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-bitrix {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-bitrix:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2338,7 +2323,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-cms {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-cms:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2382,7 +2366,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-api {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-api:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2426,7 +2409,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-crm {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-crm:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2470,7 +2452,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-php {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-php:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;
@@ -2514,7 +2495,6 @@ body .wrapper .instruments .instruments-container .instruments__circl-js {
 }
 
 body .wrapper .instruments .instruments-container .instruments__circl-js:hover {
-  cursor: pointer;
   -webkit-animation: circl-anime 1s;
           animation: circl-anime 1s;
   z-index: 5;

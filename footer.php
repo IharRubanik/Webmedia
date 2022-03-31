@@ -7,19 +7,19 @@
                 <form class="footer__application-form">
                     <div class="input-container">
                         <span>Имя</span>
-                        <input  name="name" >
+                        <input  maxlength="25" name="name"  autocomplete="new-text" type="text" required >
                     </div>
                     <div class="input-container">
                         <span>Телефон</span>
-                        <input  name="phone" >
+                        <input type="tel" autocomplete="new-text"  maxlength="15" name="phone" required >
                     </div>
                     <div class="input-container">
                         <span>Email</span>
-                        <input  name="mail" >
+                        <input type="email"  maxlength="25" name="mail" >
                     </div>
                     <div class="input-container">
                         <span>Комментарий</span>
-                        <input name="coment">
+                        <input type="text"  maxlength="50" name="coment">
                     </div>
                     <div class="footer__button-orange">
                         <div class="footer__button-green">
@@ -47,12 +47,12 @@
                 </div>
         </footer>
     </main>
-   <!-- <div id="fb-root"></div>
+   <div id="fb-root"></div>
      <div id="fb-customer-chat" class="fb-customerchat">
    </div>
     <div id="fb-root"></div>
   <div id="fb-customer-chat" class="fb-customerchat">
-  </div> -->
+  </div>
   <?php wp_footer(); ?>
 </body>
 </html>
