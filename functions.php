@@ -8,10 +8,16 @@ add_action( 'wp_enqueue_scripts', function() {
 	
 	
 	
-	wp_enqueue_script( 'swiper-script', get_template_directory_uri() . '/assets/js/swiper.js', array(), null, true );
-	wp_enqueue_script( 'main-script', get_template_directory_uri() . '/assets/js/script.js', array('jquery'), null, true );
+	wp_deregister_script('jquery');
+	wp_enqueue_script('jquery', 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js', array(), null, true);
+   
+
 
 	
+	wp_enqueue_script( 'swiper-script', get_template_directory_uri() . '/assets/js/swiper.js', array(), null, true );
+	wp_enqueue_script( 'main-script', get_template_directory_uri() . '/assets/js/script.js', array(''), null, true );
+
+
 	wp_enqueue_script( 'form-script', get_template_directory_uri() . '/assets/js/form.js', array(), null, true );
 	wp_enqueue_script( 'formalert-script', get_template_directory_uri() . '/assets/js/sweetalert.min.js', array(), null, true );
 });
