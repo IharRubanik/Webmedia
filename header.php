@@ -11,38 +11,69 @@
     <title><?php bloginfo('description' ); ?></title>
 
         <?php wp_head(); ?>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2NWKXPNZ38"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2NWKXPNZ38');
+</script>
+
+        <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1425426281239758');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1425426281239758&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 </head>
 <body>
-    <!-- Messenger Плагин чата Code -->
-    <div id="fb-root"></div>
 
-    <!-- Your Плагин чата code -->
-    <div id="fb-customer-chat" class="fb-customerchat">
-    </div>
+<!-- Messenger Плагин чата Code -->
+<div id="fb-root"></div>
 
-    <script>
-      var chatbox = document.getElementById('fb-customer-chat');
-      chatbox.setAttribute("page_id", "109574278342460");
-      chatbox.setAttribute("attribution", "biz_inbox");
-    </script>
+<!-- Your Плагин чата code -->
+<div id="fb-customer-chat" class="fb-customerchat">
+</div>
 
-    <!-- Your SDK code -->
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          xfbml            : true,
-          version          : 'v13.0'
-        });
-      };
+<script>
+  var chatbox = document.getElementById('fb-customer-chat');
+  chatbox.setAttribute("page_id", "109574278342460");
+  chatbox.setAttribute("attribution", "biz_inbox");
+</script>
 
-      (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/ru_RU/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
-    </script>
+<!-- Your SDK code -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v13.0'
+    });
+  };
+
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/ru_RU/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
         <div id="page-preloader" class="preloader">
             <div class="preloader__block">
                 <div class="preloader__logo">
@@ -54,7 +85,9 @@
             </div>
         </div>
     <main class="wrapper" id="wrapper">
-        <img class="wrapper-anime" src="<?php bloginfo('template_url'); ?>/assets/img/wrapper/anime-circles.gif" alt="anime">
+        <video class="wrapper-anime" autoplay muted loop>
+        <source src="<?php bloginfo('template_url'); ?>/assets/img/wrapper/anime-circles.mp4" tupe="video/mp4">
+        </video>
         <header class="header" id="header">
             <div class="header-container">
                 <div class="burger-menu">
