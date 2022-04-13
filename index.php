@@ -75,47 +75,47 @@
                     <!-- Slides -->
                     <div class="portfolio-slide swiper-slide">
                         <div class="portfolio-elem-container">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem1.png" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem1.webp" alt="">
                         </div>
                         <div class="portfolio-elem-container">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem2.png" alt="">
-                        </div>
-                    </div>
-                    <div class="portfolio-slide swiper-slide ">
-                        <div class="portfolio-elem-container">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem4.png" alt="">
-                        </div>
-                        <div class="portfolio-elem-container">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem5.png" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem2.webp" alt="">
                         </div>
                     </div>
                     <div class="portfolio-slide swiper-slide ">
                         <div class="portfolio-elem-container">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem3.png" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem4.webp" alt="">
                         </div>
                         <div class="portfolio-elem-container">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem6.png" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem5.webp" alt="">
+                        </div>
+                    </div>
+                    <div class="portfolio-slide swiper-slide ">
+                        <div class="portfolio-elem-container">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem3.webp" alt="">
+                        </div>
+                        <div class="portfolio-elem-container">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem6.webp" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="portfolio__grid">
                     <div class="portfolio__grid-elem">
-                        <a href="https://jaguarovich.github.io/meta_u" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem1.png"></a>
+                        <a href="https://jaguarovich.github.io/meta_u" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem1.webp"></a>
                     </div>
                     <div class="portfolio__grid-elem">
-                        <a href="https://kg24.by" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem2.png"></a>
+                        <a href="https://kg24.by" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem2.webp"></a>
                     </div>
                     <div class="portfolio__grid-elem">
-                        <a href="http://cts-trade.com" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem3.png"></a>
+                        <a href="http://cts-trade.com" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem3.webp"></a>
                     </div>
                     <div class="portfolio__grid-elem">
-                        <a href="https://www.niftables.com" target="_blank" ><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem4.png"></a>
+                        <a href="https://www.niftables.com" target="_blank" ><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem4.webp"></a>
                     </div>
                     <div class="portfolio__grid-elem">
-                        <a href="https://breket.by" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem5.png"></a>
+                        <a href="https://breket.by" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem5.webp"></a>
                     </div>
                     <div class="portfolio__grid-elem">
-                        <a href="https://everestdent.by" target="_blank" ><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem6.png"></a>
+                        <a href="https://everestdent.by" target="_blank" ><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem6.webp"></a>
                     </div>
                 </div>
             </div>
