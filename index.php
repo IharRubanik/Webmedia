@@ -100,7 +100,7 @@
                 </div>
                 <div class="portfolio__grid">
                     <div class="portfolio__grid-elem">
-                        <a href="https://jaguarovich.github.io/meta_u" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem1.webp"></a>
+                        <a href="https://metaunivercity.ga/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem1.webp"></a>
                     </div>
                     <div class="portfolio__grid-elem">
                         <a href="https://kg24.by" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/portfolio/portfolio-elem2.webp"></a>
