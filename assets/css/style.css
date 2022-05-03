@@ -2646,6 +2646,10 @@ body .wrapper .footer .footer__application-form .input-container input {
   font-size: 46px;
 }
 
+body .wrapper .footer .footer__application-form .input-container input:focus {
+  border-bottom: #dd351b solid 5px;
+}
+
 body .wrapper .footer .footer__application-form .footer__button-orange {
   position: relative;
   position: absolute;

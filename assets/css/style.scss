@@ -2058,6 +2058,9 @@ body {
             color: rgba(248, 0, 104, 1);
             text-shadow: 0px 0px 3.5px #c56e3e;
             font-size: 46px;
+            &:focus{
+              border-bottom: rgb(221, 53, 27) solid 5px;
+            }
           }
         }
 
