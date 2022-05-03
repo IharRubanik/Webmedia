@@ -13,6 +13,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta charset="<?php bloginfo(charset); ?>">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Web-студия решающая задачи по разработке и продвижению сайтов в интернете за честную цену">
     <link rel="img/favicon/apple-touch-icon" sizes="180x180" href="<?php bloginfo('template_url'); ?>/assets/img/favicon/apple-touch-icon.png">
 <link rel="icon" type="img/favicon/image/png" sizes="32x32" href="<?php bloginfo('template_url'); ?>/assets/img/favicon//favicon-32x32.png">
 <link rel="icon" type="img/favicon/image/png" sizes="16x16" href="<?php bloginfo('template_url'); ?>/assets/img/favicon//favicon-16x16.png">
