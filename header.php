@@ -38,7 +38,7 @@ fbq('track', 'PageView');
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=1017895485745054&ev=PageView&noscript=1"
 /></noscript>
-
+<meta name="google-site-verification" content="_O31lcGgvfcSqQ7cH2jbK6wADxjthWGKyZkJpRdd8_U" />
 </head>
 <body>
         <div id="page-preloader" class="preloader">
