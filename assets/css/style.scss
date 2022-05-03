@@ -2059,7 +2059,8 @@ body {
             text-shadow: 0px 0px 3.5px #c56e3e;
             font-size: 46px;
             &:focus{
-              border-bottom: rgb(221, 53, 27) solid 5px;
+              transition: .2s;
+              border-bottom: #cbfb1f solid 5px;
             }
           }
         }
