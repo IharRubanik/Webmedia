@@ -36,10 +36,10 @@
                         <span>Батуми, <br>
                             Горгиладзе, 98</span>
                         <span>support@webmedia.ge <br>
-                            <a href="tel:+995 599 02 19 54">+995 599 02 19 54</a></span>
+                            <a href="tel:+995 599 65 23 59">+995 599 65 23 59</a></span>
                     </div>
                     <div class="footer__left-block">
-                        <h3>Copyright © 2017-2021 <br>
+                        <h3>Copyright © 2017-2022 <br>
                             Все права защищены
                         </h3>
                         <a href="#wrapper"><img src="<?php bloginfo('template_url'); ?>/assets/img/footer/footer__info-logo.svg" alt="logo"></a>

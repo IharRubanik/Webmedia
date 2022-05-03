@@ -116,7 +116,7 @@ src="https://www.facebook.com/tr?id=1017895485745054&ev=PageView&noscript=1"
                         <li><a class="link" href="#footer">Контакты</a></li>
                     </ul>
                     <div class="menu__social">
-                        <a href="tel:+995 599 02 19 54">
+                        <a href="tel:+995 599 65 23 59">
                             <svg width="30" height="30" viewBox="0 0 30 30" fill="#C4FB17"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
