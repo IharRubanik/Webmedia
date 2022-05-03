@@ -2649,7 +2649,7 @@ body .wrapper .footer .footer__application-form .input-container input {
 body .wrapper .footer .footer__application-form .input-container input:focus {
   -webkit-transition: .2s;
   transition: .2s;
-  border-bottom: #cbfb1f solid 5px;
+  border-bottom: #cbfb1f solid 4px;
 }
 
 body .wrapper .footer .footer__application-form .footer__button-orange {
